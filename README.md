@@ -1,17 +1,21 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+02.12.2024
 
-### Date created
-Include the date you created this project and README file.
+# Discover the US Bikeshare Database
 
-### Project Title
-Replace the Project Title
+## Description
+This project is to discover the US Bikeshare Database for three cities
+* Chicago
+* New York City
+* Washington
+You can filter the database by month or date and get some discriptive statistics. Furthermore you can view the filtered raw data.
 
-### Description
-Describe what your project is about and what it does
+## Files used
+bikeshare_2.py --> Code file, python
+chicago.csv --> Database file for Chicago; not pushed to remote
+new_york_city.csv --> Database file for New York City; not pushed to remote
+washington.csv --> Database file for washington; not pushed to remote
 
-### Files used
-Include the files used
-
-### Credits
+## Credits
+here some credits and links...
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
