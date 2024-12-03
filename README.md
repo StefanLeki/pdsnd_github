@@ -16,6 +16,6 @@ new_york_city.csv --> Database file for New York City; not pushed to remote
 washington.csv --> Database file for washington; not pushed to remote
 
 ## Credits
-here some credits and links...
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+www.udacity.com
+
 
