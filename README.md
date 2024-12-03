@@ -7,6 +7,7 @@ This project is to discover the US Bikeshare Database for three cities
 * Chicago
 * New York City
 * Washington
+
 You can filter the database by month or date and get some discriptive statistics. Furthermore you can view the filtered raw data.
 
 ## Files used
